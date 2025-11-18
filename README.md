@@ -26,3 +26,8 @@ Passionate about building scalable web applications
 
 [![Ramtin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramtin-abdolhoseini&show_icons=true&theme=radical)](https://github.com/Ramtin-abdolhoseini)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramtin-abdolhoseini&layout=compact&theme=radical)](https://github.com/Ramtin-abdolhoseini)
+
+### 📂 Featured Projects
+
+- [RamtinSite](https://github.com/ramtin-abdolhoseini/ramtinsite)  
+  A simple blog built with Django following the MVT architecture (template-based) using SQLite.
