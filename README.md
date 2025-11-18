@@ -4,7 +4,7 @@ Backend Developer | Python & Django
 
 Passionate about building scalable web applications
 
-🔭 I’m currently working django
+🔭 I’m currently working on django
 
 🌱 I’m currently learning docker,ci/cd
 
@@ -21,3 +21,5 @@ Passionate about building scalable web applications
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
