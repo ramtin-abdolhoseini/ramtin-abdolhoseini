@@ -1,6 +1,8 @@
 Hi 👋, I'm Ramtin Abdolhoseini
 
-Python Backend Developer (Django)
+Backend Developer | Python & Django 
+
+Passionate about building scalable web applications
 
 🔭 I’m currently working django
 
