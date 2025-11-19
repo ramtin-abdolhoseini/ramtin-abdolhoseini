@@ -29,5 +29,5 @@ Passionate about building scalable web applications
 
 ### 📂 Featured Projects
 
-- [RamtinSite](https://github.com/ramtin-abdolhoseini/ramtinsite)  
+- [Ramtin-blog](https://github.com/ramtin-abdolhoseini/ramtin-blog)  
   A simple blog built with Django following the MVT architecture (template-based) using SQLite.
